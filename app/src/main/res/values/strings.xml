@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppMovilGPS</string>
+    <string name="EditText_Latitud">LATITUD</string>
+    <string name="EditText_Longitud">LONGITUD</string>
+    <string name="btn_volver">VOLVER</string>
+    <string name="btn_mostrar">MOSTRAR</string>
+    <string name="btn_borrar">BORRAR</string>
+</resources>
